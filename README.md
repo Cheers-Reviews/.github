@@ -1,0 +1,2 @@
+# Welcome to Cheers!
+Cheers enables companies to collect, interact with, and analyze customer feedback with near-zero friction. Customers can leave a review in just three taps—tap their phone on a Cheers display or card located inside the store, tap to rate, and tap to submit. We provide filters to gather negative feedback internally and will provide immediate, AI-generated insights for these reviews to boost customer engagement, SEO, and staff accountability.
